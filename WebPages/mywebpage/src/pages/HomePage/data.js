@@ -1,0 +1,47 @@
+
+export const homeObjOne ={
+    lightBg: false,
+    imgStart:'',
+    lightTopLine:true,
+    lightTextDesc:true,
+    buttonLabel:'Get Started',
+    description:'We help business owners increase their revenu. our team on uniique specialist can help you acheive your busines goals.',
+    headline:'Lead Generation specialist for Online Busines ',
+    lightText:true,
+    topLine:'Margeting Agency', 
+    primary :true,
+    img: '/images/1.svg',
+    start:'',
+    alt:'Image',
+};
+export const homeObjTwo ={
+    lightBg: true,
+    imgStart:'start',
+    lightTopLine:false,
+    lightTextDesc:false,
+    buttonLabel:'Get Started',
+    description:'We help business owners increase their revenu. our team on uniique specialist can help you acheive your busines goals.',
+    headline:'Lead Generation specialist for Online Busines ',
+    lightText:false,
+    topLine:'Margeting Agency', 
+    primary :false,
+    img: '/images/2.svg',
+    start:'true',
+    alt:'Image',
+};
+
+export const homeObjThree ={
+    lightBg: false,
+    imgStart:'',
+    lightTopLine:true,
+    lightTextDesc:true,
+    buttonLabel:'Get Started',
+    description:'We help business owners increase their revenu. our team on uniique specialist can help you acheive your busines goals.',
+    headline:'Lead Generation specialist for Online Busines ',
+    lightText:true,
+    topLine:'Margeting Agency', 
+    primary :true,
+    img: '/images/3.svg',
+    start:'',
+    alt:'Image',
+};
