@@ -12,7 +12,7 @@ const [search,setSearch] = useState('');
 
 useEffect(()=>{
   axios
-  .get('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false')
+  .get('https://www.belgiantrain.be/fr/3rd-party-services/mobility-service-providers/public-data/use-our-data/')
   .then(res =>{
     setCoins(res.data)
   })
